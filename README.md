@@ -80,14 +80,6 @@ self-baked version, which never depends on anyone else's server:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:0F172A&height=3"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3"/>
-
 # 🌱 Currently Learning
 
 ```text
