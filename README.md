@@ -50,11 +50,13 @@ Learning  : Web Security • Linux • Python Automation
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Namra0001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Namra0001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Once you set up metrics.yml (see the note below the file), you can switch to this instead — it never breaks:
+<!-- The official github-readme-stats.vercel.app was paused long-term by its maintainer (cost/rate-limit issues),
+so this uses a community-run mirror instead. Once metrics.yml (below) is set up, you can switch to your own
+self-baked version, which never depends on anyone else's server:
 <p align="center">
 <img src="https://raw.githubusercontent.com/Namra0001/Namra0001/main/metrics.svg"/>
 </p>
@@ -81,7 +83,7 @@ Learning  : Web Security • Linux • Python Automation
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&column=7&order=1"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3"/>
