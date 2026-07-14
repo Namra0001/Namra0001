@@ -50,14 +50,13 @@ Learning  : Web Security • Linux • Python Automation
 # 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Namra0001/Namra0001/main/metrics.svg"/>
-</p>
-
-<!-- Fallback (if you skip the Action below, this still works but may occasionally break due to server load) -->
-<!--
-<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Namra0001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+<!-- Once you set up metrics.yml (see the note below the file), you can switch to this instead — it never breaks:
+<p align="center">
+<img src="https://raw.githubusercontent.com/Namra0001/Namra0001/main/metrics.svg"/>
 </p>
 -->
 
@@ -82,7 +81,7 @@ Learning  : Web Security • Linux • Python Automation
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&column=7&order=1"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3"/>
@@ -130,8 +129,10 @@ Learning  : Web Security • Linux • Python Automation
 
 ---
 
+<!-- This shows the demo snake for now. Once you add snake.yml (see the file I gave you) and it runs once, switch the src back to:
+https://raw.githubusercontent.com/Namra0001/Namra0001/output/github-contribution-grid-snake-dark.svg -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Namra0001/Namra0001/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <div align="center">
