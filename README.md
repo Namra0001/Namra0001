@@ -50,9 +50,16 @@ Learning  : Web Security • Linux • Python Automation
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Namra0001&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Namra0001/Namra0001/main/metrics.svg"/>
 </p>
+
+<!-- Fallback (if you skip the Action below, this still works but may occasionally break due to server load) -->
+<!--
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Namra0001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:0F172A&height=3"/>
 
@@ -75,7 +82,7 @@ Learning  : Web Security • Linux • Python Automation
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Namra0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3"/>
