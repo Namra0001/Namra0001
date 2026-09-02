@@ -64,14 +64,6 @@ Learning  : Web Security • Linux • Python Automation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3"/>
 
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namra0001&theme=tokyo-night&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:0F172A&height=3" />
-
 # 🌱 Currently Learning
 
 ```text
