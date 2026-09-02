@@ -54,14 +54,6 @@ Learning  : Web Security • Linux • Python Automation
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Namra0001&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- The official github-readme-stats.vercel.app was paused long-term by its maintainer (cost/rate-limit issues),
-so this uses a community-run mirror instead. Once metrics.yml (below) is set up, you can switch to your own
-self-baked version, which never depends on anyone else's server:
-<p align="center">
-<img src="https://raw.githubusercontent.com/Namra0001/Namra0001/main/metrics.svg"/>
-</p>
--->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:0F172A&height=3"/>
 
 # 🔥 GitHub Streak
@@ -130,8 +122,7 @@ self-baked version, which never depends on anyone else's server:
 
 ---
 
-<!-- This shows the demo snake for now. Once you add snake.yml (see the file I gave you) and it runs once, switch the src back to:
-https://raw.githubusercontent.com/Namra0001/Namra0001/output/github-contribution-grid-snake-dark.svg -->
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
