@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Namra%20Dabhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20•%20Software%20Developer%20•%20Open%20Source&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Namra%20Dabhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20•%20Software%20Developer%20&descAlignY=60"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Website+Pentester;Computer+Science+Student;Fullstack+Web+Developer;Python+%7C+Java+%7C+C%2B%2B+Developer;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
